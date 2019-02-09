@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">E2M CONVERTER</string>
+    <string name="txtTitle">English to Metric Converter</string>
+    <string name="txtNumber">Enter a Number</string>
+    <string-array name="txtGroup">
+        <item>Inches to Millimetres</item>
+        <item>Feet to Metres</item>
+        <item>Miles to Kilometres</item>
+        <item>Ounces to Grams</item>
+        <item>Pounds to Kilograms</item>
+        </string-array>
+    <string name="btnConvert">Convert it!</string>
+    <string name="txtDisplay"></string>
+    <string name="imgMTE">MTE LOGO</string>
+</resources>
